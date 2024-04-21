@@ -1,0 +1,5 @@
+<RCC>
+  <qresource prefix="新前缀">
+    <file>微信图片_20230916133132.png</file>
+  </qresource>
+</RCC>
